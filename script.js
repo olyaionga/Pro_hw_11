@@ -68,4 +68,4 @@ for (let i = 0; i < arr.length; i++) {
   }
 }
 
-console.log(`Підсумок: ${arr}`);
+console.log(`Результат: ${arr}`);
